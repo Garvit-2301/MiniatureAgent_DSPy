@@ -299,10 +299,9 @@ We welcome contributions to enhance the health analysis capabilities:
 - RESTful API development for web application integration
 - Batch processing capabilities for multiple report analysis
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for complete terms and conditions.
 
 ---
 
 **Powered by DSPy Framework for Advanced Health Report Analysis**
+
+**Note: This is just a miniature version of a multi-purpose agentic AI system, and is still under progress.**
