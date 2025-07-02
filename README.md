@@ -280,7 +280,6 @@ We welcome contributions to enhance the health analysis capabilities:
 
 - [DSPy Framework Documentation](https://dspy-docs.vercel.app/)
 - [DSPy GitHub Repository](https://github.com/stanfordnlp/dspy)
-- [Microbiome Analysis Standards](link-to-relevant-scientific-resources)
 
 ## Technical Notes
 
