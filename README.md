@@ -1,4 +1,5 @@
 # MiniatureAgent_DSPy
+** Open the code in Google Colab or Jupyter Notebook in case the preview flickers. **
 
 # Health Report Analysis DSPy Agent
 
